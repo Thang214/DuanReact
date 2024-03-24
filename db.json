@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "category": "Sản phẩm",
+      "price": 100000,
+      "image": "https://picsum.photos/id/10/300/300",
+      "description": "This is product 1",
+      "discount": 30,
+      "quantity": 100
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "category": "Sản phẩm",
+      "price": 19.99,
+      "image": "https://picsum.photos/id/11/300/300",
+      "description": "This is product 2",
+      "discount": 0.1,
+      "quantity": 50
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "category": "Sản phẩm",
+      "price": 5.99,
+      "image": "https://picsum.photos/id/12/300/300",
+      "description": "This is product 3",
+      "discount": 0,
+      "quantity": 20
+    },
+    {
+      "id": "4",
+      "name": "Product 4",
+      "category": "Sản phẩm",
+      "price": 14.99,
+      "image": "https://picsum.photos/id/13/300/300",
+      "description": "This is product 4",
+      "discount": 0.2,
+      "quantity": 75
+    },
+    {
+      "id": "5",
+      "name": "Product 5",
+      "category": "Sản phẩm",
+      "price": 9.99,
+      "image": "https://picsum.photos/id/14/300/300",
+      "description": "This is product 5",
+      "discount": 0,
+      "quantity": 150
+    },
+    {
+      "id": "6",
+      "name": "Product 6",
+      "category": "Sản phẩm",
+      "price": 7.99,
+      "image": "https://picsum.photos/id/15/300/300",
+      "description": "This is product 6",
+      "discount": 0.15,
+      "quantity": 100
+    },
+    {
+      "id": "7",
+      "name": "Product 7",
+      "category": "Sản phẩm",
+      "price": 12.99,
+      "image": "https://picsum.photos/id/16/300/300",
+      "description": "This is product 7",
+      "discount": 0,
+      "quantity": 50
+    },
+    {
+      "id": "8",
+      "name": "Product 8",
+      "category": "Sản phẩm",
+      "price": 17.99,
+      "image": "https://picsum.photos/id/17/300/300",
+      "description": "This is product 8",
+      "discount": 0.1,
+      "quantity": 80
+    }
+  ]
+}
